@@ -75,10 +75,12 @@ contract DeFiLending {
 ```
 # Expected Output:
 
-![alt text](<ex 4 bc.png>)
+![Uploading Screenshot 2025-04-28 120311.png…]()
 
-![alt text](<ex 4.1 bc.png>)
-![alt text](<ex 4.2 bc.png>)
+![Uploading Screenshot 2025-04-28 120319.png…]()
+
+![Uploading Screenshot 2025-04-28 120328.png…]()
+
 
 Users can deposit ETH and earn interest.
 
